@@ -6,3 +6,9 @@ log/
 cmake-build-debug/
 main
 build/
+*.iml
+*.class
+out/
+target/
+node_modules/
+package-lock.json
